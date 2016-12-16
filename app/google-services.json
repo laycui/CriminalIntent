@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282302318126",
+    "firebase_url": "https://laycui.firebaseio.com",
+    "project_id": "laycui",
+    "storage_bucket": "laycui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282302318126:android:461e1c5128824c6a",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.criminalintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282302318126-sqaakuio019v9i8m145mrf3rf3urg4pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYBL6zzG_NZlzqVIV_6Q_L32b2VfXcrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
