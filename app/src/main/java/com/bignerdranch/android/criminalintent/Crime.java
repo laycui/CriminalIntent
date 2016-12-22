@@ -30,6 +30,10 @@ public class Crime {
     return mDate;
   }
 
+  public void setDate(Date date) {
+    mDate = date;
+  }
+
   public void setSolved(boolean solved) {
     mSolved = solved;
   }
